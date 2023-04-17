@@ -22,3 +22,5 @@ How to do basic shit on AWS
 - SDLC
   - Git Branching Basics
   - You can learn more [here](https://www.youtube.com/watch?v=QV0kVNvkMxc)
+- Parties
+  - Here ya go fucker!
