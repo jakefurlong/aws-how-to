@@ -121,3 +121,8 @@ CIDR
     - Finally, push the staged changes to GitHub: `git push`.
   - Portfolio ideas
     - You can check our Github pages [here](https://pages.github.com/).
+- SDLC
+  - Git Branching Basics
+  - You can learn more [here](https://www.youtube.com/watch?v=QV0kVNvkMxc)
+- Parties
+  - Here ya go fucker!
